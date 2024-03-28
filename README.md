@@ -1,2 +1,1 @@
-# 2024-Prepcourse-Henry
-Este es un repositorio de prueba del modulo dos
+este proyecto es una prueba de como clonar crear un repositorio y clonarlo desde github a mi computadora
